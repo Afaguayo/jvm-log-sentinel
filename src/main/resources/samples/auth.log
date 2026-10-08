@@ -1,0 +1,13 @@
+Jun 14 03:22:01 host sshd[1234]: Failed password for root from 203.0.113.5 port 51515 ssh2
+Jun 14 03:22:04 host sshd[1235]: Failed password for root from 203.0.113.5 port 51516 ssh2
+Jun 14 03:22:07 host sshd[1236]: Failed password for root from 203.0.113.5 port 51517 ssh2
+Jun 14 03:22:10 host sshd[1237]: Failed password for root from 203.0.113.5 port 51518 ssh2
+Jun 14 03:22:13 host sshd[1238]: Failed password for root from 203.0.113.5 port 51519 ssh2
+Jun 14 03:22:16 host sshd[1239]: Failed password for root from 203.0.113.5 port 51520 ssh2
+Jun 14 03:25:00 host sshd[1240]: Failed password for alice from 198.51.100.9 port 40001 ssh2
+Jun 14 03:25:05 host sshd[1241]: Failed password for bob from 198.51.100.9 port 40002 ssh2
+Jun 14 03:25:10 host sshd[1242]: Failed password for carol from 198.51.100.9 port 40003 ssh2
+Jun 14 03:25:15 host sshd[1243]: Failed password for dave from 198.51.100.9 port 40004 ssh2
+Jun 14 03:25:20 host sshd[1244]: Failed password for erin from 198.51.100.9 port 40005 ssh2
+Jun 14 03:25:25 host sshd[1245]: Failed password for frank from 198.51.100.9 port 40006 ssh2
+Jun 14 08:10:00 host sshd[1300]: Accepted publickey for emmanuel from 192.0.2.44 port 22222 ssh2
